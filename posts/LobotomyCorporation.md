@@ -1,7 +1,7 @@
 ---
 title: 脑叶公司剧情收录
 date: 2025-01-19
-tags: 脑叶公司, Hod, Michelle, Elijah, Malkuth, Kali, Geburah, Carmen, Yesod, Gabriel, Giovanni, Netzach, Daniel, Chesed, Benjamin, Hokma, Garion, Binah, Ayin, X, 主管]
+tags: [脑叶公司, Hod, Michelle, Elijah, Malkuth, Kali, Geburah, Carmen, Yesod, Gabriel, Giovanni, Netzach, Daniel, Chesed, Benjamin, Hokma, Garion, Binah, Ayin, X, 主管]
 ---
 
 ## 游戏剧情
